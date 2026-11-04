@@ -1,0 +1,33 @@
+{
+  "name": "sendcove",
+  "displayName": "Sendcove",
+  "version": "1.0.0",
+  "description": "Draft, schedule, and review social posts across X, Instagram, TikTok, Threads, Bluesky, YouTube, Facebook Pages, and LinkedIn with Sendcove.",
+  "author": {
+    "name": "Minner Labs LLC",
+    "email": "support@minnerlabs.com",
+    "url": "https://www.sendcove.app"
+  },
+  "homepage": "https://www.sendcove.app/features/mcp/claude-code",
+  "license": "MIT",
+  "keywords": [
+    "social media",
+    "scheduler",
+    "mcp",
+    "posts",
+    "x",
+    "instagram",
+    "tiktok",
+    "threads",
+    "bluesky",
+    "youtube",
+    "facebook",
+    "linkedin"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://www.sendcove.app/features/mcp/claude-code",
+  "supportUrl": "https://www.sendcove.app/contact",
+  "privacyPolicyUrl": "https://www.sendcove.app/privacy",
+  "termsOfServiceUrl": "https://www.sendcove.app/terms-of-service",
+  "repository": "https://github.com/1forh/sendcove-agent-plugins"
+}

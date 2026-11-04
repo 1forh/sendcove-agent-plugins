@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sendcove": {
+      "type": "http",
+      "url": "https://www.sendcove.app/api/mcp"
+    }
+  }
+}

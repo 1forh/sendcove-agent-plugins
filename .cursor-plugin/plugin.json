@@ -1,0 +1,27 @@
+{
+  "name": "sendcove",
+  "version": "1.0.0",
+  "description": "Draft, schedule, and review social posts across X, Instagram, TikTok, Threads, Bluesky, YouTube, Facebook Pages, and LinkedIn with Sendcove, from Cursor's agent.",
+  "author": {
+    "name": "Minner Labs LLC",
+    "email": "support@minnerlabs.com"
+  },
+  "homepage": "https://www.sendcove.app/features/mcp/cursor",
+  "license": "MIT",
+  "keywords": [
+    "social media",
+    "scheduler",
+    "mcp",
+    "posts",
+    "x",
+    "instagram",
+    "tiktok",
+    "threads",
+    "bluesky",
+    "youtube",
+    "facebook",
+    "linkedin"
+  ],
+  "logo": "assets/logo.png",
+  "repository": "https://github.com/1forh/sendcove-agent-plugins"
+}

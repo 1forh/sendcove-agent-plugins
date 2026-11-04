@@ -1,0 +1,17 @@
+{
+  "name": "sendcove",
+  "description": "Sendcove for Claude Code: schedule and review social posts from your agent.",
+  "owner": {
+    "name": "Minner Labs LLC",
+    "email": "support@minnerlabs.com",
+    "url": "https://www.sendcove.app"
+  },
+  "plugins": [
+    {
+      "name": "sendcove",
+      "source": "./",
+      "description": "Draft, schedule, and review social posts across X, Instagram, TikTok, Threads, Bluesky, YouTube, Facebook Pages, and LinkedIn with Sendcove.",
+      "category": "productivity"
+    }
+  ]
+}

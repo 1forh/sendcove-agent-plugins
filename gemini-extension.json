@@ -1,0 +1,11 @@
+{
+  "name": "sendcove",
+  "version": "1.0.0",
+  "description": "Draft, schedule, and review social posts across X, Instagram, TikTok, Threads, Bluesky, YouTube, Facebook Pages, and LinkedIn with Sendcove.",
+  "mcpServers": {
+    "sendcove": {
+      "httpUrl": "https://www.sendcove.app/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
