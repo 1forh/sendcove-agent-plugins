@@ -36,7 +36,21 @@ gemini extensions install https://github.com/1forh/sendcove-agent-plugins
 
 Then run `/mcp auth sendcove` and sign in.
 
-**Any other MCP app** (ChatGPT, Claude, VS Code, Codex, Amp, Windsurf, Zed...): add `https://www.sendcove.app/api/mcp` as a remote MCP server. Setup guides for each app: https://www.sendcove.app/features/mcp
+**GitHub Copilot in VS Code**
+
+Add the server to `.vscode/mcp.json` (or your user `mcp.json`):
+
+```json
+{
+  "servers": {
+    "sendcove": { "type": "http", "url": "https://www.sendcove.app/api/mcp" }
+  }
+}
+```
+
+Start the server when VS Code asks and allow it to sign in, then use Sendcove from Copilot agent mode. Guide: https://www.sendcove.app/features/mcp/github-copilot
+
+**Any other MCP app** (ChatGPT, Claude, Codex, Amp, Windsurf, Zed...): add `https://www.sendcove.app/api/mcp` as a remote MCP server. Setup guides for each app: https://www.sendcove.app/features/mcp
 
 ## Plans
 
